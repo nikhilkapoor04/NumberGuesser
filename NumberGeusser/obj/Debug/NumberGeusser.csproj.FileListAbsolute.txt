@@ -1,0 +1,14 @@
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.exe.config
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.exe
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.pdb
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.csprojAssemblyReference.cache
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.csproj.CoreCompileInputs.cache
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.exe
+C:\Users\SUNNY_GHAI\Desktop\Nikhil\Visual_Studio\Projects\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.pdb
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.exe.config
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.exe
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\bin\Debug\NumberGeusser.pdb
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.csprojAssemblyReference.cache
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.csproj.CoreCompileInputs.cache
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.exe
+C:\Users\SUNNY_GHAI\Desktop\NumberGeusser\NumberGeusser\obj\Debug\NumberGeusser.pdb
